@@ -24,3 +24,10 @@ h1 {
     text-align: center;
     border-radius: 2 px;
 }
+
+
+#btn_no {
+    background-color: red;
+    text-align: center;
+    padding: 15px;
+}
