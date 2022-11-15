@@ -15,5 +15,5 @@ btnSI.addEventListener('click', function(e) {
     alert('Sabia que dirias que si chiquibeibi')
     divModoSexo.style.display = 'block';
     const cancion = new Audio('img\\Modo_sex.mp3');
-    cancion,play();
+    cancion.play();
 })
